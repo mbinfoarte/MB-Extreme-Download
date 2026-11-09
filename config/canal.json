@@ -1,0 +1,18 @@
+{
+  "handle": "mbinfoarte",
+  "name": "MB InfoArt",
+  "tagline": "Tecnologia sem complicação",
+  "youTube": "",
+  "whatsapp": "",
+  "hours": "",
+  "email": "",
+  "links": [
+    { "name": "YouTube", "url": "https://www.youtube.com/@mbinfoarte" },
+    { "name": "Instagram", "url": "https://www.instagram.com/mbinfoarte" },
+    { "name": "TikTok", "url": "https://www.tiktok.com/@mbinfoarte" },
+    { "name": "Facebook", "url": "https://www.facebook.com/mbinfoarte" },
+    { "name": "Threads", "url": "https://www.threads.net/@mbinfoarte" }
+  ],
+  "offers": [],
+  "partners": []
+}
