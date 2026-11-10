@@ -2,17 +2,23 @@
   "handle": "mbinfoarte",
   "name": "MB InfoArt",
   "tagline": "Tecnologia sem complicação",
-  "youTube": "",
-  "whatsapp": "",
-  "hours": "",
-  "email": "",
+  "youTubeChannelId": "",
+  "supportWhatsApp": "",
+  "supportHours": "",
+  "supportEmail": "",
   "links": [
-    { "name": "YouTube", "url": "https://www.youtube.com/@mbinfoarte" },
-    { "name": "Instagram", "url": "https://www.instagram.com/mbinfoarte" },
-    { "name": "TikTok", "url": "https://www.tiktok.com/@mbinfoarte" },
-    { "name": "Facebook", "url": "https://www.facebook.com/mbinfoarte" },
-    { "name": "Threads", "url": "https://www.threads.net/@mbinfoarte" }
+    { "name": "YouTube", "url": "https://www.youtube.com/@mbinfoarte", "description": "Vídeos novos toda semana", "icon": "youtube" },
+    { "name": "Instagram", "url": "https://www.instagram.com/mbinfoarte", "description": "Dicas rápidas e bastidores", "icon": "instagram" },
+    { "name": "TikTok", "url": "https://www.tiktok.com/@mbinfoarte", "description": "Vídeos curtos", "icon": "tiktok" },
+    { "name": "Facebook", "url": "https://www.facebook.com/mbinfoarte", "description": "Página oficial", "icon": "facebook" },
+    { "name": "Threads", "url": "https://www.threads.net/@mbinfoarte", "description": "Conversas e novidades", "icon": "threads" }
   ],
   "offers": [],
-  "partners": []
+  "partners": [],
+  "affiliates": [
+    { "name": "Amazon", "category": "lojas", "description": "Peças, periféricos e eletrônicos com o link do canal.", "url": "https://link.amazon/B0blXMOFI", "color": "#FF9900" },
+    { "name": "Magazine Você (Magalu)", "category": "lojas", "description": "A loja da MB InfoArt no Magazine Luiza.", "url": "https://www.magazinevoce.com.br/magazinembinfoarte", "color": "#0086FF" },
+    { "name": "ExitLag", "category": "games", "description": "Menos ping e conexão mais estável nos jogos online. Use o código do canal.", "url": "https://www.exitlag.com/refer/10076170", "coupon": "10076170", "color": "#FF3D5A" },
+    { "name": "GVG Mall", "category": "games", "description": "Chaves de jogos e programas com desconto.", "url": "https://www.gvgmall.com/gvg/mbinfoarte", "color": "#FF8A00" }
+  ]
 }
