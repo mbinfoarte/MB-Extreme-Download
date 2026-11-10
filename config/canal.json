@@ -18,7 +18,9 @@
   "affiliates": [
     { "name": "Amazon", "category": "lojas", "description": "Peças, periféricos e eletrônicos com o link do canal.", "url": "https://link.amazon/B0blXMOFI", "color": "#FF9900" },
     { "name": "Magazine Você (Magalu)", "category": "lojas", "description": "A loja da MB InfoArt no Magazine Luiza.", "url": "https://www.magazinevoce.com.br/magazinembinfoarte", "color": "#0086FF" },
+    { "name": "AliExpress", "category": "lojas", "description": "Acessórios, cabos e peças importadas com preço baixo.", "url": "https://s.click.aliexpress.com/e/_c3VRu42L", "color": "#FF4747" },
     { "name": "ExitLag", "category": "games", "description": "Menos ping e conexão mais estável nos jogos online. Use o código do canal.", "url": "https://www.exitlag.com/refer/10076170", "coupon": "10076170", "color": "#FF3D5A" },
-    { "name": "GVG Mall", "category": "games", "description": "Chaves de jogos e programas com desconto.", "url": "https://www.gvgmall.com/gvg/mbinfoarte", "color": "#FF8A00" }
+    { "name": "GVG Mall", "category": "games", "description": "Chaves de jogos e programas com desconto.", "url": "https://www.gvgmall.com/gvg/mbinfoarte", "color": "#FF8A00" },
+    { "name": "Manus", "category": "ia", "description": "Agente de IA que pesquisa, cria e executa tarefas sozinho. Entre pelo convite e ganhe créditos.", "url": "https://manus.im/invitation/DTIUBHTL7AQ0?utm_source=invitation&utm_medium=social&utm_campaign=copy_link", "color": "#9B8CFF" }
   ]
 }
