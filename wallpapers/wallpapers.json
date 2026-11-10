@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "author": "MB InfoArt",
+  "items": [
+    {
+      "id": "01-hardware-gamer",
+      "title": "Hardware gamer",
+      "theme": "Desempenho",
+      "width": 3840,
+      "height": 2160,
+      "file": "wallpapers/01-hardware-gamer.jpg",
+      "thumb": "wallpapers/miniaturas/01-hardware-gamer.jpg",
+      "bytes": 736371
+    },
+    {
+      "id": "02-cidade-cyberpunk",
+      "title": "Cidade cyberpunk",
+      "theme": "Futurista",
+      "width": 3840,
+      "height": 2160,
+      "file": "wallpapers/02-cidade-cyberpunk.jpg",
+      "thumb": "wallpapers/miniaturas/02-cidade-cyberpunk.jpg",
+      "bytes": 1237856
+    },
+    {
+      "id": "03-setup-gamer",
+      "title": "Setup gamer",
+      "theme": "Jogos",
+      "width": 3840,
+      "height": 2160,
+      "file": "wallpapers/03-setup-gamer.jpg",
+      "thumb": "wallpapers/miniaturas/03-setup-gamer.jpg",
+      "bytes": 849071
+    },
+    {
+      "id": "04-processador",
+      "title": "Processador",
+      "theme": "Desempenho",
+      "width": 3840,
+      "height": 2160,
+      "file": "wallpapers/04-processador.jpg",
+      "thumb": "wallpapers/miniaturas/04-processador.jpg",
+      "bytes": 862807
+    },
+    {
+      "id": "05-carro-de-corrida",
+      "title": "Carro de corrida",
+      "theme": "Velocidade",
+      "width": 3840,
+      "height": 2160,
+      "file": "wallpapers/05-carro-de-corrida.jpg",
+      "thumb": "wallpapers/miniaturas/05-carro-de-corrida.jpg",
+      "bytes": 1111997
+    },
+    {
+      "id": "06-guerreiro-sci-fi",
+      "title": "Guerreiro sci-fi",
+      "theme": "Jogos",
+      "width": 3840,
+      "height": 2160,
+      "file": "wallpapers/06-guerreiro-sci-fi.jpg",
+      "thumb": "wallpapers/miniaturas/06-guerreiro-sci-fi.jpg",
+      "bytes": 1013546
+    },
+    {
+      "id": "07-tunel-hexagonal",
+      "title": "Túnel hexagonal",
+      "theme": "Futurista",
+      "width": 3840,
+      "height": 2160,
+      "file": "wallpapers/07-tunel-hexagonal.jpg",
+      "thumb": "wallpapers/miniaturas/07-tunel-hexagonal.jpg",
+      "bytes": 1051882
+    },
+    {
+      "id": "08-controle-premium",
+      "title": "Controle premium",
+      "theme": "Jogos",
+      "width": 3840,
+      "height": 2160,
+      "file": "wallpapers/08-controle-premium.jpg",
+      "thumb": "wallpapers/miniaturas/08-controle-premium.jpg",
+      "bytes": 614191
+    },
+    {
+      "id": "09-nave-espacial",
+      "title": "Nave espacial",
+      "theme": "Jogos",
+      "width": 3840,
+      "height": 2160,
+      "file": "wallpapers/09-nave-espacial.jpg",
+      "thumb": "wallpapers/miniaturas/09-nave-espacial.jpg",
+      "bytes": 1011977
+    },
+    {
+      "id": "10-ondas-de-dados",
+      "title": "Ondas de dados",
+      "theme": "Minimalista",
+      "width": 3840,
+      "height": 2160,
+      "file": "wallpapers/10-ondas-de-dados.jpg",
+      "thumb": "wallpapers/miniaturas/10-ondas-de-dados.jpg",
+      "bytes": 702413
+    }
+  ]
+}
