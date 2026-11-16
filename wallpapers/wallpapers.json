@@ -1,7 +1,248 @@
 {
-  "version": 1,
+  "version": 2,
   "author": "MB InfoArt",
   "items": [
+    {
+      "id": "v2-cidade",
+      "title": "Cidade neon",
+      "theme": "Jogos",
+      "width": 3840,
+      "height": 2160,
+      "file": "wallpapers/v2/cidade-4k.jpg",
+      "thumb": "wallpapers/v2/miniaturas/cidade.jpg",
+      "bytes": 2174869,
+      "variants": [
+        {
+          "kind": "ultrawide",
+          "width": 5120,
+          "height": 2160,
+          "file": "wallpapers/v2/cidade-ultrawide.jpg",
+          "bytes": 2376272
+        },
+        {
+          "kind": "vertical",
+          "width": 2160,
+          "height": 3840,
+          "file": "wallpapers/v2/cidade-vertical.jpg",
+          "bytes": 2866261
+        }
+      ]
+    },
+    {
+      "id": "v2-litoral",
+      "title": "Litoral ao pôr do sol",
+      "theme": "Jogos",
+      "width": 3840,
+      "height": 2160,
+      "file": "wallpapers/v2/litoral-4k.jpg",
+      "thumb": "wallpapers/v2/miniaturas/litoral.jpg",
+      "bytes": 2975768,
+      "variants": [
+        {
+          "kind": "ultrawide",
+          "width": 5120,
+          "height": 2160,
+          "file": "wallpapers/v2/litoral-ultrawide.jpg",
+          "bytes": 3554124
+        },
+        {
+          "kind": "vertical",
+          "width": 2160,
+          "height": 3840,
+          "file": "wallpapers/v2/litoral-vertical.jpg",
+          "bytes": 3237750
+        }
+      ]
+    },
+    {
+      "id": "v2-controle",
+      "title": "Controle dourado",
+      "theme": "Jogos",
+      "width": 3840,
+      "height": 2160,
+      "file": "wallpapers/v2/controle-4k.jpg",
+      "thumb": "wallpapers/v2/miniaturas/controle.jpg",
+      "bytes": 1023883,
+      "variants": [
+        {
+          "kind": "ultrawide",
+          "width": 5120,
+          "height": 2160,
+          "file": "wallpapers/v2/controle-ultrawide.jpg",
+          "bytes": 1222005
+        },
+        {
+          "kind": "vertical",
+          "width": 2160,
+          "height": 3840,
+          "file": "wallpapers/v2/controle-vertical.jpg",
+          "bytes": 1255730
+        }
+      ]
+    },
+    {
+      "id": "v2-pc",
+      "title": "PC gamer por dentro",
+      "theme": "Desempenho",
+      "width": 3840,
+      "height": 2160,
+      "file": "wallpapers/v2/pc-4k.jpg",
+      "thumb": "wallpapers/v2/miniaturas/pc.jpg",
+      "bytes": 1979788,
+      "variants": [
+        {
+          "kind": "ultrawide",
+          "width": 5120,
+          "height": 2160,
+          "file": "wallpapers/v2/pc-ultrawide.jpg",
+          "bytes": 2324938
+        }
+      ]
+    },
+    {
+      "id": "v2-corrida",
+      "title": "Corrida noturna",
+      "theme": "Velocidade",
+      "width": 3840,
+      "height": 2160,
+      "file": "wallpapers/v2/corrida-4k.jpg",
+      "thumb": "wallpapers/v2/miniaturas/corrida.jpg",
+      "bytes": 2515107,
+      "variants": [
+        {
+          "kind": "ultrawide",
+          "width": 5120,
+          "height": 2160,
+          "file": "wallpapers/v2/corrida-ultrawide.jpg",
+          "bytes": 2983295
+        }
+      ]
+    },
+    {
+      "id": "v2-soldado",
+      "title": "Soldado futurista",
+      "theme": "Jogos",
+      "width": 3840,
+      "height": 2160,
+      "file": "wallpapers/v2/soldado-4k.jpg",
+      "thumb": "wallpapers/v2/miniaturas/soldado.jpg",
+      "bytes": 1554317,
+      "variants": [
+        {
+          "kind": "ultrawide",
+          "width": 5120,
+          "height": 2160,
+          "file": "wallpapers/v2/soldado-ultrawide.jpg",
+          "bytes": 1799375
+        }
+      ]
+    },
+    {
+      "id": "v2-robo",
+      "title": "Robô gigante",
+      "theme": "Futurista",
+      "width": 3840,
+      "height": 2160,
+      "file": "wallpapers/v2/robo-4k.jpg",
+      "thumb": "wallpapers/v2/miniaturas/robo.jpg",
+      "bytes": 1670558,
+      "variants": [
+        {
+          "kind": "ultrawide",
+          "width": 5120,
+          "height": 2160,
+          "file": "wallpapers/v2/robo-ultrawide.jpg",
+          "bytes": 1974421
+        }
+      ]
+    },
+    {
+      "id": "v2-nave",
+      "title": "Caça espacial",
+      "theme": "Futurista",
+      "width": 3840,
+      "height": 2160,
+      "file": "wallpapers/v2/nave-4k.jpg",
+      "thumb": "wallpapers/v2/miniaturas/nave.jpg",
+      "bytes": 2571815,
+      "variants": [
+        {
+          "kind": "ultrawide",
+          "width": 5120,
+          "height": 2160,
+          "file": "wallpapers/v2/nave-ultrawide.jpg",
+          "bytes": 3086410
+        }
+      ]
+    },
+    {
+      "id": "v2-samurai",
+      "title": "Samurai neon",
+      "theme": "Jogos",
+      "width": 3840,
+      "height": 2160,
+      "file": "wallpapers/v2/samurai-4k.jpg",
+      "thumb": "wallpapers/v2/miniaturas/samurai.jpg",
+      "bytes": 2711605,
+      "variants": [
+        {
+          "kind": "ultrawide",
+          "width": 5120,
+          "height": 2160,
+          "file": "wallpapers/v2/samurai-ultrawide.jpg",
+          "bytes": 2980386
+        }
+      ]
+    },
+    {
+      "id": "v2-dragao",
+      "title": "Cavaleiro e dragão",
+      "theme": "Jogos",
+      "width": 3840,
+      "height": 2160,
+      "file": "wallpapers/v2/dragao-4k.jpg",
+      "thumb": "wallpapers/v2/miniaturas/dragao.jpg",
+      "bytes": 1933560,
+      "variants": [
+        {
+          "kind": "ultrawide",
+          "width": 5120,
+          "height": 2160,
+          "file": "wallpapers/v2/dragao-ultrawide.jpg",
+          "bytes": 2195766
+        }
+      ]
+    },
+    {
+      "id": "v2-cidade-vertical",
+      "title": "Cidade neon (em pé)",
+      "theme": "Vertical",
+      "width": 2160,
+      "height": 3840,
+      "file": "wallpapers/v2/cidade-vertical.jpg",
+      "thumb": "wallpapers/v2/miniaturas/cidade-vertical.jpg",
+      "bytes": 2866261
+    },
+    {
+      "id": "v2-litoral-vertical",
+      "title": "Litoral (em pé)",
+      "theme": "Vertical",
+      "width": 2160,
+      "height": 3840,
+      "file": "wallpapers/v2/litoral-vertical.jpg",
+      "thumb": "wallpapers/v2/miniaturas/litoral-vertical.jpg",
+      "bytes": 3237750
+    },
+    {
+      "id": "v2-controle-vertical",
+      "title": "Controle dourado (em pé)",
+      "theme": "Vertical",
+      "width": 2160,
+      "height": 3840,
+      "file": "wallpapers/v2/controle-vertical.jpg",
+      "thumb": "wallpapers/v2/miniaturas/controle-vertical.jpg",
+      "bytes": 1255730
+    },
     {
       "id": "01-hardware-gamer",
       "title": "Hardware gamer",
